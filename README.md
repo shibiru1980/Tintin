@@ -22,10 +22,10 @@ This repository contains clean PDF versions of the Tintin comic series, sourced 
 | 14 | `14_Tintin_and_the_Prisonres_of_Sun.pdf` | 15.4 MB |
 | 15 | `15_Tintin_and_the_Land_of_Black_Gold.pdf` | 15.0 MB |
 | 16 | `16_Tintin_and_the_Destination_Moon.pdf` | 15.7 MB |
-| 17 | `17_Tintin_and_the_Explorers_on_the_Moon.pdf` | 10.8 MB |
+| 17 | `17_Tintin_and_the_Explorers_on_the_Moon.pdf` | 15.4 MB |
 | 18 | `18_Tintin_and_the_Calculus_Affair.pdf` | 15.5 MB |
 | 19 | `19_Tintin_and_the_Red_Sea_Sharks.pdf` | 15.6 MB |
-| 20 | `20_Tintin_in_Tibet.pdf` | 140.0 KB |
+| 20 | `20_Tintin_in_Tibet.pdf` | 16.2 MB |
 | 21 | `21_Tintin_and_the_Castafiore_Emerald.pdf` | 15.9 MB |
 | 22 | `22_Tintin_and_the_Flight_714.pdf` | 17.9 MB |
 | 23 | `23_Tintin_and_the_Picaros.pdf` | 17.2 MB |
@@ -43,5 +43,5 @@ All PDFs are downloaded from the public archive.org item: [01TintinInTheLandOfTh
 
 ## Notes
 - These are clean PDFs (not text-extracted versions).
-- The collection includes albums 1-25 (the main series).
+- The collection includes albums 1-30 (the main series plus extras).
 - Provided for educational and archival purposes.
